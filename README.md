@@ -1,4 +1,4 @@
-# gnome-sound-volume-changer
+# gnome-audio-volume-changer
 Script to change audio volume and display icon with volume percentage info.
 
 Original program, info and instructions:
