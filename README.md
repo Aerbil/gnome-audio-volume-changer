@@ -4,4 +4,4 @@ Script to change audio volume and display icon with volume percentage info.
 Original program, info and instructions:
 https://github.com/garrett92895/gnome-volume-step-osd
 
-This is an improved version of the program in the link.
+This is an improved version of the program in the link. Changes are made. Please look at the start of the code for proper usage.
